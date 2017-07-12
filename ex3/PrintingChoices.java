@@ -21,6 +21,7 @@ public class PrintingChoices
 		System.out.println();
 		System.out.println( "This" + " " + "is" + " " + "a" + " " + "test." );	
 		
+		//The study drill asks for a printing statement that concatenates Strings together.
 		System.out.printf("%s %s" + " " + "%s %s" + " " + "%s %s %s.\n", str[0], str[1], str[2], str[3], str[4], str[5], str[6]);
 	}
 }
