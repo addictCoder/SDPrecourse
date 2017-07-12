@@ -76,7 +76,7 @@ public class RudeQuestions
 				that value to the String name. Then the program continues. It will print the next println() method, THEN throw the InputMismatchException. This is because
 				the keyboard object is now calling the nextInt() method. However, it reads your last name and the next token. int != String. 
 				
-		4.
+		4. Above
 
 		*/	
 	
