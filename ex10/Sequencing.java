@@ -5,6 +5,7 @@ public class Sequencing
 	public static void main(String[] args)
 	{
 		// THIS CODE IS BROKEN UNTIL YOU FIX IT
+		// .....fixed.
 		
 		Scanner keyboard = new Scanner(System.in);
 		double price, salesTax, total;
